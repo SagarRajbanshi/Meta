@@ -6,7 +6,7 @@
 import os
 import time
 os.system("clear")
-print("  ==> \033[1;32mTHIS TOOLS DECODE BY (Sagar) ")
+print("  ==> \033[1;32mTHIS TOOLS DECODE BY Sagar Rajbanshi - |Mr.X| ")
 time.sleep(5)
 
 W = '\033[97;1m' 
@@ -92,8 +92,8 @@ class Main:
 			exit()
 		os.system("clear")
 		
-		print("\n"+C+"  _____  ________      _______ _  \n |  __ \|  ____\ \    / /_   _| |      "+Y+"|I'M"+C+"\n | |  | | |__   \ \  / /  | | | |     "+Y+"|Mr.X"+C+"\n | |  | |  __|   \ \/ /   | | | |     "+Y+"|SagarRajbanshi"+C+"\n | |__| | |____   \  /   _| |_| |____ \n |_____/|______|   \/   |_____|______|\n "+N+"──────────────────────────────────────────────────"+G+"\n▸ AUTHOR     : Sagar Rajbanshi\n▸ FACEBOOK   : SagarRajbanshi\n▸ PAGE      : SagarRajbanshi\n▸ GITHUB     : GITHUB.COM/SagarRajbanshi\n"+N+"─────────────────────────────────────────────────\n")
-		print("%s [%s•%s] %sTOOL NAME : %sMULTI-TOOL"%(G,R,G,B,G))
+		print("\n"+C+"  _____  ________      _______ _  \n |  __ \|  ____\ \    / /_   _| |      "+Y+"|I'M"+C+"\n | |  | | |__   \ \  / /  | | | |     "+Y+"|Mr.X"+C+"\n | |  | |  __|   \ \/ /   | | | |     "+Y+"|SagarRajbanshi"+C+"\n | |__| | |____   \  /   _| |_| |____ \n |_____/|______|   \/   |_____|______|\n "+N+"──────────────────────────────────────────────────"+G+"\n▸ AUTHOR     : Sagar Rajbanshi\n▸ FACEBOOK   : Sagar Rajbanshi\n▸ PAGE       : Sagar Rajbanshi\n▸ GITHUB     : Sagar Rajbanshi\n"+N+"─────────────────────────────────────────────────\n")
+		print("%s [%s•%s] %sTOOL NAME : %sMULTI-TOOL-By-Mr.X"%(G,R,G,B,G))
 		print("%s [%s•%s] %sVERSION   : %s1.0"%(G,R,G,B,G))
 		print("%s [%s•%s] %sYOUR KEY  : %s%s"%(G,R,G,B,G,key))
 		print("%s [%s•%s] %sSTATUS    : %s"%(G,R,G,B,stat)) 
