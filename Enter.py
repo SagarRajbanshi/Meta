@@ -92,7 +92,7 @@ class Main:
 			exit()
 		os.system("clear")
 		
-		print("\n"+C+"  _____  ________      _______ _  \n |  __ \|  ____\ \    / /_   _| |      "+Y+"|I'M"+C+"\n | |  | | |__   \ \  / /  | | | |     "+Y+"|Mr.X"+C+"\n | |  | |  __|   \ \/ /   | | | |     "+Y+"|SagarRajbanshi"+C+"\n | |__| | |____   \  /   _| |_| |____ \n |___...__/|______|   \/   |_____|______|\n "+N+"──────────────────────────────────────────────────"+G+"\n▸ AUTHOR     : Sagar Rajbanshi\n▸ FACEBOOK   : Sagar Rajbanshi\n▸ PAGE       : Sagar Rajbanshi\n▸ GITHUB     : Sagar Rajbanshi\n"+N+"─────────────────────────────────────────────────\n")
+		print("\n"+C+"  _____  ________      _______ _  \n |  __ \|  ____\ \    / /_   _| |      "+Y+"|I'M"+C+"\n | |  | | |__   \ \  / /  | | | |     "+Y+"|Mr.X"+C+"\n | |  | |  __|   \ \/ /   | | | |     "+Y+"|SagarRajbanshi"+C+"\n | |__| | |____   \  /   _| |_| |____ \n |_________/|______|   \/   |_____|______|\n "+N+"──────────────────────────────────────────────────"+G+"\n▸ AUTHOR     : Sagar Rajbanshi\n▸ FACEBOOK   : Sagar Rajbanshi\n▸ PAGE       : Sagar Rajbanshi\n▸ GITHUB     : Sagar Rajbanshi\n"+N+"─────────────────────────────────────────────────\n")
 print("\n"+C+"_____ ________ _______ _ \n
 ███████╗     █████╗      ██████╗      █████╗     ██████╗ 
 ██╔════╝    ██╔══██╗    ██╔════╝     ██╔══██╗    ██╔══██╗
@@ -102,7 +102,7 @@ print("\n"+C+"_____ ________ _______ _ \n
 ╚══════╝    ╚═╝  ╚═╝     ╚═════╝     ╚═╝  ╚═╝    ╚═╝  ╚═╝\n "+N+"──────────────────────────────────────────────────"+G+"\n▸ AUTHOR : Sagar Rajbanshi\n▸ FACEBOOK : Sagar Rajbanshi\n▸ PAGE : Sagar Rajbanshi\n▸ GITHUB : Sagar Rajbanshi\n"+N+"─────────────────────────────────────────────────\n")		print("%s [%s•%s] %sTOOL NAME : %sMULTI-TOOL-By-Mr.X"%(G,R,G,B,G))		print("%s [%s•%s] %sVERSION : %s1.0"%(G,R,G,B,G))		print("%s [%s•%s] %sYOUR KEY : %s%s"%(G,R,G,B,G,key))		print("%s [%s•%s] %sSTATUS : %s"%(G,R,G,B,stat)) 		print("")		runtxt("\033[97;1m <======= Every tool here is free, Enjoy =======>")		runtxt("\n \033[0;92m <======= Sagar Rajbanshi |Mr.X| =======> \033[0;97m ")
 
 		print("%s [%s•%s] %sTOOL NAME : %sMULTI-TOOL-By-Mr.X"%(G,R,G,B,G))
-		print("%s [%s•%s] %sVERSION   : %s1.0"%(G,R,G,B,G))
+		print("%s [%s•%s] %sVERSION   : %s5.07"%(G,R,G,B,G))
 		print("%s [%s•%s] %sYOUR KEY  : %s%s"%(G,R,G,B,G,key))
 		print("%s [%s•%s] %sSTATUS    : %s"%(G,R,G,B,stat)) 
 		print("")
